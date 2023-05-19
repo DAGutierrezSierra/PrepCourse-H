@@ -1,2 +1,5 @@
-# PrepCourse-H
-Este es un repositorio de prueba en H
+este es un proyecto de prueba
+
+de como usar GitHub creando un repositorio
+
+y clonandolo a mi escritorio local
